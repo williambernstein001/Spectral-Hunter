@@ -1,0 +1,17 @@
+{
+  "name": "spectral-hunter",
+  "version": "1.0.0",
+  "description": "Spectral Hunter - Bot WhatsApp défensif avec Baileys (WhiskeySockets)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["whatsapp", "bot", "baileys", "defense", "spectral", "whiskeysockets"],
+  "author": "Ghost Willy's",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.0.0"
+  }
+}
